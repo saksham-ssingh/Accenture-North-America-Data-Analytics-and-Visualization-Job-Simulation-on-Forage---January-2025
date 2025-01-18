@@ -7,6 +7,7 @@
    trends to inform strategic decisions
  * Prepared a PowerPoint deck and video presentation to communicate key insights
    for the client and internal stakeholders
+   
 
    ![image](https://github.com/user-attachments/assets/17f4e85a-8c96-4e41-9a34-d019f62a354f)
 
